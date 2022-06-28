@@ -1,0 +1,2 @@
+this is a demo file to push into repo
+this is new line edited via git cmd line
